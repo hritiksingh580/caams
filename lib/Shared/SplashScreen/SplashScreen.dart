@@ -49,17 +49,16 @@ class _SplashScreenState extends State<SplashScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       Text(
-                          "CMS",
+                          "CAAMS",
                           style: TextStyle(
                               fontSize: 30.0,
                               fontWeight: FontWeight.w700,
-                              fontFamily: "Alike"
+                              fontFamily: "Nunito-Regular"
                           )
                       )
                     ],
                   ),
                 ),
-
               ),
             ],
           )
